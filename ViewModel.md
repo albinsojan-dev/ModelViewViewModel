@@ -1,4 +1,4 @@
-# ModelViewViewModel
+# ViewModel
 ModelViewViewMode
 
 ```
